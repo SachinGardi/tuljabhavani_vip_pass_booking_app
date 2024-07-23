@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Online_Donation" data-name="Online Donation" transform="translate(-45 -659)">
+    <rect id="Rectangle_716" data-name="Rectangle 716" width="36" height="36" rx="10" transform="translate(45 659)" fill="#fff"/>
+    <g id="charity" transform="translate(52.7 668.102)">
+      <path id="Path_2971" data-name="Path 2971" d="M216,26.01A5,5,0,1,0,211,21,5.01,5.01,0,0,0,216,26.01Zm.556-4.449h-1.112a1.668,1.668,0,1,1,0-3.337V17.112h1.112v1.112a1.67,1.67,0,0,1,1.668,1.668h-1.112a.557.557,0,0,0-.556-.556h-1.112a.556.556,0,1,0,0,1.112h1.112a1.668,1.668,0,1,1,0,3.337V24.9h-1.112V23.786a1.67,1.67,0,0,1-1.668-1.668h1.112a.557.557,0,0,0,.556.556h1.112a.556.556,0,0,0,0-1.112Z" transform="translate(-203.177 -16)" fill="#f6ab33"/>
+      <path id="Path_2972" data-name="Path 2972" d="M0,316H2.224v5.005H0Z" transform="translate(0 -304.878)" fill="#f6ab33"/>
+      <path id="Path_2973" data-name="Path 2973" d="M102.794,288.442l-3.715,2.007H93.374v-1.112h5.561v-.556a1.668,1.668,0,0,0-1.668-1.668H95.253A4.591,4.591,0,0,0,90,286.593v5.653l7.345,1.539,8.3-4.222-.3-.521A1.894,1.894,0,0,0,102.794,288.442Z" transform="translate(-86.663 -275.99)" fill="#f6ab33"/>
+    </g>
+  </g>
+</svg>

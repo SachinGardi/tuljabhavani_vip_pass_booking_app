@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508387756148",
+    "project_id": "tuljapurepass",
+    "storage_bucket": "tuljapurepass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508387756148:android:ecc2ac4bf44591b4ac6921",
+        "android_client_info": {
+          "package_name": "com.epass.tuljapur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508387756148-njqt5i6483diheq5pnb7oeu1ubinkg9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb9g9rzC-vGT9ZdFM7gHDGuMobPMC1kq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508387756148-njqt5i6483diheq5pnb7oeu1ubinkg9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
